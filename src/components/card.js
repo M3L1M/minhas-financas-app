@@ -1,5 +1,5 @@
 import React from 'react';
-//import 'bootswatch/dist/darkly/bootstrap.css'
+
 
 class Card extends React.Component{
     render(){
@@ -13,5 +13,5 @@ class Card extends React.Component{
         )
     }
 }
-
+  
 export default Card
